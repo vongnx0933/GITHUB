@@ -9,3 +9,4 @@ Repository (Repo)
 - git add: chuẩn bị lưu lại thời điểm hiện tại
 - git reset: reset lại các file đã chuẩn bị lưu
 - git commit: chính thức lưu ( git commit -m 'initial commit': ghi chú thời điểm đầu tiên)
+- git log: xem những thời điểm chúng ta đã lưu
