@@ -16,3 +16,5 @@ Branch: Cành
 - git checkout {branch-name} : để trở về với hiện tại
 - git branch: xem branch hiện tại
 - git checkout -b {branch-name}: tạo ra 1 nhánh khác
+- git merge {branch-name}: tổng hợp branch khác với nhau
+- git branch -d {branch-name}: xoá branch
