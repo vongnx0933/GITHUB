@@ -22,7 +22,13 @@ Remote
 - git merge {branch-name}: tổng hợp branch khác với nhau
 - git branch -d {branch-name}: xoá branch
 - git push: đẩy lên remote repo
-- git pull: đồng bộ
+- git remote add origin {repo url}:
+- git pull: đồng bộ dữ liệu từ trên github về
 - git push -u origin {branch-name} :đẩy branch lên github
 - git fetch origin:
 - git checkout -b {branch-name} origin/{branch-name}: lấy branch từ github xuống
+- git clone {repo url}: lấy code từ github về
+
+#Git Ignore:
+
+- .gitignore: trong thư mục này sẽ xác định những file hoặc thư mục nào sẽ ẩn và không đưa lên github
