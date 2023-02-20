@@ -22,3 +22,6 @@ Remote
 - git merge {branch-name}: tổng hợp branch khác với nhau
 - git branch -d {branch-name}: xoá branch
 - git push: đẩy lên remote repo
+- git pull: đồng bộ
+- git push -u origin {branch-name} :đẩy branch lên github
+- 
