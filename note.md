@@ -24,4 +24,5 @@ Remote
 - git push: đẩy lên remote repo
 - git pull: đồng bộ
 - git push -u origin {branch-name} :đẩy branch lên github
-- 
+- git fetch origin:
+- git checkout -b {branch-name} origin/{branch-name}: lấy branch từ github xuống
