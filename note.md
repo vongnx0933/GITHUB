@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch: Cành
 Conflict: Xung đột
+Local
+Remote
 
 #Commands
 
@@ -19,3 +21,4 @@ Conflict: Xung đột
 - git checkout -b {branch-name}: tạo ra 1 nhánh khác
 - git merge {branch-name}: tổng hợp branch khác với nhau
 - git branch -d {branch-name}: xoá branch
+- git push: đẩy lên remote repo
